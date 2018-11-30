@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<c3p0-config>
+    <default-config>
+        <property name="diverClass">com.mysql.cj.jdbc.Driver</property>
+        <property name="jdbcUrl">
+            jdbc:mysql://localhost:3306/bookcity?useSSL=false&amp;useUnicode=true&amp;characterEncoding=utf-8&amp;serverTimezone=GMT%2B8
+        </property>
+        <property name="user">root</property>
+        <property name="password">127643721lc</property>
+        <property name="checkoutTimeOut">30000</property>
+        <property name="initialPoolSize">10</property>
+        <property name="maxIdleTime">10</property>
+        <property name="maxPoolSize">100</property>
+        <property name="minPoolSize">10</property>
+        <property name="maxStatements">200</property>
+    </default-config>
+
+    <named-config name="bookcity">
+        <property name="driverClass">com.mysql.cj.jdbc.Driver</property>
+        <property name="jdbcUrl">
+            jdbc:mysql://localhost:3306/bookcity?useSSL=false&amp;useUnicode=true&amp;characterEncoding=utf-8&amp;serverTimezone=GMT%2B8
+        </property>
+        <property name="user">mrlv</property>
+        <property name="password">127643721lc</property>
+        <property name="initialPoolSize">10</property>
+        <property name="maxPoolSize">100</property>
+        <property name="maxIdleTime">10</property>
+    </named-config>
+
+</c3p0-config>
