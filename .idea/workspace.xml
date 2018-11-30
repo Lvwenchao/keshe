@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ccde5e0-ed20-4887-8776-dfb20b805cd9" name="Default Changelist" comment="" />
+    <list default="true" id="4ccde5e0-ed20-4887-8776-dfb20b805cd9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +56,7 @@
     <session id="-937241568">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="41" />
+          <entry key="project.closed" value="42" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.14" value="2" />
@@ -85,13 +87,14 @@
           <entry key="c3p0-config" value="5" />
           <entry key="class" value="16" />
           <entry key="css" value="19" />
+          <entry key="gitignore" value="3" />
           <entry key="html" value="1" />
           <entry key="iml" value="5" />
           <entry key="java" value="269" />
           <entry key="jpg" value="1" />
           <entry key="js" value="12" />
           <entry key="jsp" value="154" />
-          <entry key="md" value="1" />
+          <entry key="md" value="4" />
           <entry key="notice" value="4" />
           <entry key="orderitem" value="7" />
           <entry key="orders" value="7" />
@@ -103,7 +106,7 @@
           <entry key="ts" value="1" />
           <entry key="txt" value="1" />
           <entry key="user" value="28" />
-          <entry key="xml" value="47" />
+          <entry key="xml" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -117,11 +120,11 @@
           <entry key="JAVA" value="269" />
           <entry key="JSP" value="154" />
           <entry key="JavaScript" value="12" />
-          <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Markdown" value="4" />
+          <entry key="PLAIN_TEXT" value="4" />
           <entry key="Scratch" value="2" />
           <entry key="TypeScript" value="1" />
-          <entry key="XML" value="57" />
+          <entry key="XML" value="58" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -130,10 +133,11 @@
           <entry key="cell" value="370" />
           <entry key="css" value="135" />
           <entry key="dummy" value="5" />
+          <entry key="gitignore" value="5" />
           <entry key="java" value="10210" />
           <entry key="js" value="27" />
           <entry key="jsp" value="1669" />
-          <entry key="md" value="5" />
+          <entry key="md" value="23" />
           <entry key="sql" value="4" />
           <entry key="tld" value="8" />
           <entry key="txt" value="48" />
@@ -146,8 +150,8 @@
           <entry key="JAVA" value="10210" />
           <entry key="JSP" value="1669" />
           <entry key="JavaScript" value="27" />
-          <entry key="Markdown" value="5" />
-          <entry key="PLAIN_TEXT" value="53" />
+          <entry key="Markdown" value="23" />
+          <entry key="PLAIN_TEXT" value="58" />
           <entry key="Scratch" value="374" />
           <entry key="XML" value="1378" />
         </counts>
@@ -180,7 +184,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="E:/GitHub/keshe" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/web/client/cart.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
@@ -188,7 +192,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/lv/domain/Product.java" />
         <option value="$PROJECT_DIR$/src/com/lv/test.java" />
         <option value="$PROJECT_DIR$/web/client/product_search_list.jsp" />
         <option value="D:/Documents/Tencent Files/1151343263/FileRecv/第13-15章/itcaststore/src/cn/itcast/itcaststore/web/servlet/client/ShowProductByPageServlet.java" />
@@ -238,6 +241,7 @@
         <option value="$PROJECT_DIR$/src/com/lv/client/CreateOrderServlet.java" />
         <option value="$PROJECT_DIR$/web/client/paysuccess.jsp" />
         <option value="$PROJECT_DIR$/src/com/lv/client/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -289,28 +293,6 @@
               <item name="keshe" type="b2602c69:ProjectViewProjectNode" />
               <item name="keshe" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="keshe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="keshe" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="keshe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="keshe" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="keshe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="keshe" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="keshe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="keshe" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -327,7 +309,7 @@
     <property name="SearchEverywhereHistoryKey" value="getParameter&#9;PSI&#9;JAVA://sun.plugin2.applet.Plugin2Manager#getParameter&#10;getpara&#9;PSI&#9;JAVA://com.lv.filter.characterRequest#getParameter" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543579959939" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543582642923" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Problems" />
@@ -552,7 +534,7 @@
       <workItem from="1543572018992" duration="1943000" />
       <workItem from="1543574548304" duration="3728000" />
       <workItem from="1543578474727" duration="601000" />
-      <workItem from="1543579158442" duration="597000" />
+      <workItem from="1543579158442" duration="3534000" />
     </task>
     <task id="LOCAL-00001" summary="secomd">
       <created>1543577426689</created>
@@ -565,7 +547,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154348000" />
+    <option name="totallyTimeSpent" value="157285000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="750" extended-state="6" />
@@ -587,7 +569,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.33225283" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49848714" visible="true" weight="0.32954547" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49848714" visible="true" weight="0.3262987" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5015129" side_tool="true" weight="0.32954547" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3494364" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32901135" />
@@ -666,13 +648,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/client/js/my.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/Documents/Tencent Files/1151343263/FileRecv/第13-15章/itcaststore/WebContent/client/js/my.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -982,11 +957,18 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
-            <caret column="2" selection-start-column="2" selection-end-column="2" />
+            <caret lean-forward="true" />
           </first_editor>
           <second_editor />
         </state>
